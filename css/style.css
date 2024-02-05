@@ -76,3 +76,16 @@ section h2,
   text-decoration: none;
   margin: 6px 0;
 }
+
+.article article h3 {
+  font-size: 18px;
+}
+
+.article article a:hover {
+  background-color: #ccc;
+  color: black;
+}
+
+#sports {
+  background-color: #f4f4f4;
+}
